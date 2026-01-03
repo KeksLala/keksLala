@@ -12,7 +12,7 @@ Apaixonada por criar interfaces responsivas e performáticas. Atualmente desenvo
 -  Voluntária no projeto **QuiMinas** - incentivando meninas em STEM
 -  Fun fact: Graduanda em Química Licenciatura - UFU
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 #### Front-end
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -32,12 +32,12 @@ Apaixonada por criar interfaces responsivas e performáticas. Atualmente desenvo
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-### 🎯 Projetos em Destaque
+###  Projetos em Destaque
 
 - 🌟 **Sistema de Mentorias** - Plataforma em Node.js para 4,2 mil usuários
 - 📰 **Editora.bo** - Sistema de gerenciamento para turma de jornalismo
 
-### 📫 Como me encontrar
+###  Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kessensouza/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kessenGoncalves@gmail.com)
