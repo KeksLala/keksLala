@@ -2,7 +2,7 @@
 
 ##  Desenvolvedora Front-end Júnior
 
-Apaixonada por criar interfaces responsivas e performáticas que encantam usuários. Atualmente desenvolvendo sistemas em Node.js que atendem milhares de pessoas.
+Apaixonada por criar interfaces responsivas e performáticas. Atualmente desenvolvendo sistemas em Node.js.
 
 ###  Sobre mim
 
@@ -31,11 +31,6 @@ Apaixonada por criar interfaces responsivas e performáticas que encantam usuár
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
-
-![Kessen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
 
 ### 🎯 Projetos em Destaque
 
